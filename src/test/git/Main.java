@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("Hola Commit Git");
 		
 		System.out.println("Hola Commit Paralelo Branch Git");
-	}
 
+		System.out.println("Hola Branch Git");
+		System.out.println("Hola Branch Git Commit 2");
+	}
 }
